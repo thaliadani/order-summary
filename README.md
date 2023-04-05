@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL]()
+- [Live Site URL](https://order-summary-tan.vercel.app/)
 - [Solution URL](https://www.frontendmentor.io/profile/thaliadani/solutions)
 
 ## My process
