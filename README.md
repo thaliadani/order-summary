@@ -27,10 +27,12 @@ Users should be able to:
 
 ### Mobile
 
+![image](https://user-images.githubusercontent.com/31187727/230217184-066dcd72-080e-4a5c-916d-e4a29fb5a193.png)
 
 
 ### Desktop
 
+![image](https://user-images.githubusercontent.com/31187727/230217257-2c7f65ac-9e62-4c6d-a72c-bfd43f0d7a85.png)
 
 
 </div>
