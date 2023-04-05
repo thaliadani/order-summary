@@ -117,7 +117,7 @@ body img {
 
 .attribution {
   position: absolute;
-  bottom: 10%;
+  bottom: 0;
   font-size: 11px;
   text-align: center;
 }
