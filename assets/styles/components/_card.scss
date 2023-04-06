@@ -64,7 +64,7 @@
         -moz-box-shadow: $shadow;
         &:hover{
         background-color: $color-lilac;
-        border: solid 0.5em $color-lilac;
+        border-color: $color-lilac;
         }
     }
     
